@@ -81,6 +81,7 @@ import './index.css';
         } else {
             status = 'Następny gracz: ' + (this.state.isNext ? 'X' : 'O');
         }
+        console.log('test');
 
       return (
         <div className="game">
