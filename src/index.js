@@ -70,7 +70,7 @@ import './index.css';
         });
 
     }
-
+//test
     render() {
         const history = this.state.history;
         const current = history[history.length-1];
